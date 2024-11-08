@@ -55,9 +55,9 @@ Here is an example of how the system detects a Plank exercise:
 
 ![Plank Exercise Screenshot](screenshots/low_back_error.png)
 
-![Plank Exercise Screenshot](screenshots/squat1.png)
+![Plank Exercise Screenshot](screenshots/sqaut1.png)
 
-![Plank Exercise Screenshot](screenshots/squat2.png)
+![Plank Exercise Screenshot](screenshots/sqaut2.png)
 
 ## Contributing
 
